@@ -234,7 +234,7 @@ The following is the list of supported operators and their precedence.
 |                                       | Parentheses are not really an operator, but allow you to explicitly specify |
 |                                       | the precedence of an operation.                                             |
 +---------------------------------------+-----------------------------------------------------------------------------+
-| ``x[index]``                          | Subscription                                                                |
+| ``x[index]``                          | Subscript access                                                            |
 +---------------------------------------+-----------------------------------------------------------------------------+
 | ``x.attribute``                       | Attribute reference                                                         |
 +---------------------------------------+-----------------------------------------------------------------------------+
