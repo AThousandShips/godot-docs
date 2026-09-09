@@ -85,7 +85,7 @@ on GitHub.
 | **Version**  | **Release date**     | **Support level**                                                        |
 +--------------+----------------------+--------------------------------------------------------------------------+
 | Godot 4.8    | Q4 2026 (estimate)   | |unstable| *Development.* Receives new features, usability and           |
-| (`master`)   |                      | performance improvements, as well as bug fixes, while under development. |
+| (``master``) |                      | performance improvements, as well as bug fixes, while under development. |
 +--------------+----------------------+--------------------------------------------------------------------------+
 | Godot 4.7    | June 2026            | |supported| Receives fixes for bugs and security issues, as well as      |
 |              |                      | patches that enable platform support.                                    |
@@ -106,7 +106,7 @@ on GitHub.
 | Godot 4.0    | March 2023           | |eol| No longer supported (last update: 4.0.4).                          |
 +--------------+----------------------+--------------------------------------------------------------------------+
 | Godot 3.7    | No ETA for now       | |supported| *Beta.* Receives new features, usability and performance     |
-| (`3.x`)      |                      | improvements, as well as bug fixes, while under development.             |
+| (``3.x``)    |                      | improvements, as well as bug fixes, while under development.             |
 +--------------+----------------------+--------------------------------------------------------------------------+
 | Godot 3.6    | September 2024       | |supported| Receives fixes for bugs and security issues, as well as      |
 |              |                      | patches that enable platform support.                                    |

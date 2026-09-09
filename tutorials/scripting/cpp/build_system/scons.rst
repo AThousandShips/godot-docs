@@ -127,7 +127,7 @@ Example
 This example adds a string constant of every signal in a class to its class header.
 For example, in ``base_button.hpp`` we will add ``static constexpr char SIGNAL_PRESSED[] = "pressed";``
 for the ``pressed`` signal. We will use the ``SConstruct`` file from the `godot-cpp template <https://github.com/godotengine/godot-cpp-template>`__.
-We start by creating `custom_generator.py` at the root of our project. It only overrides
+We start by creating ``custom_generator.py`` at the root of our project. It only overrides
 ``alter_engine_class_header``, as that is all we need.
 
 .. code-block:: python

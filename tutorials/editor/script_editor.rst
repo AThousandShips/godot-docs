@@ -242,7 +242,7 @@ The **Edit** menu provides several options for line operations:
 - **Duplicate Selection**: Copies the selection and appends it next to the selection.
 - **Duplicate Lines**: Duplicates the current line and adds it as a new line below the
   current line.
-- **Evaluate Selection***: Computes the values of the selected text if it contains `only`
+- **Evaluate Selection***: Computes the values of the selected text if it contains *only*
   a mathematical expression, such as ``83 * 3`` or ``pow(2,3)``.
 - **Toggle Word Wrap**: Disables the horizontal scrollbar by wrapping the long lines to
   the next line. Note that this is just a visual change and no new linebreaks are added.

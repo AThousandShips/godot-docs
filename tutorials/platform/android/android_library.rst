@@ -202,7 +202,7 @@ Below we break-down the steps used to create the GLTF Viewer app.
 - Configure the Godot project as desired
 
   - Make sure the `orientation <https://docs.godotengine.org/en/stable/classes/class_projectsettings.html#class-projectsettings-property-display-window-handheld-orientation>`_ set for the Godot project matches the one set in the Android app's manifest
-  - For Android, make sure `textures/vram_compression/import_etc2_astc <https://docs.godotengine.org/en/stable/classes/class_projectsettings.html#class-projectsettings-property-rendering-textures-vram-compression-import-etc2-astc>`_ is set to `true`
+  - For Android, make sure `textures/vram_compression/import_etc2_astc <https://docs.godotengine.org/en/stable/classes/class_projectsettings.html#class-projectsettings-property-rendering-textures-vram-compression-import-etc2-astc>`_ is set to ``true``
 
 - Update the Godot project script logic as needed
 

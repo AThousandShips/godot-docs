@@ -324,7 +324,7 @@ own toolchain file as listed in the cmake-toolchains_ documentation.
 
 Or use the toolchain and scripts provided by the Android SDK and make changes
 using the ``ANDROID_*`` variables listed there. Where ``<version>`` is whatever
-NDK version you have installed (tested with `28.1.13356709`) and ``<platform>``
+NDK version you have installed (tested with ``28.1.13356709``) and ``<platform>``
 is for the Android sdk platform, (tested with ``android-29``).
 
 .. warning::

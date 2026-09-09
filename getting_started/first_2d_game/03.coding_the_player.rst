@@ -228,7 +228,7 @@ We also check whether the player is moving so we can call ``play()`` or
 Now that we have a movement direction, we can update the player's position. We
 can also use ``clamp()`` to prevent it from leaving the screen. *Clamping* a
 value means restricting it to a given range. Add the following to the bottom of
-the ``_process`` function (make sure it's not indented under the `else`):
+the ``_process`` function (make sure it's not indented under the ``else``):
 
 .. tabs::
  .. code-tab:: gdscript GDScript

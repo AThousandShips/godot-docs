@@ -210,7 +210,7 @@ As mentioned, a v2 Android plugin is now provided to the Godot Editor as an ``Ed
         - | `_get_android_libraries <https://docs.godotengine.org/en/latest/classes/class_editorexportplugin.html#class-editorexportplugin-method-get-android-libraries>`_:
           | Retrieve the local paths of the Android libraries binaries (AAR files) provided by the plugin
         - | `_get_android_dependencies <https://docs.godotengine.org/en/latest/classes/class_editorexportplugin.html#class-editorexportplugin-method-get-android-dependencies>`_:
-          | Retrieve the set of Android maven dependencies (e.g. `org.godot.example:my-plugin:0.0.0`) provided by the plugin
+          | Retrieve the set of Android maven dependencies (e.g. ``org.godot.example:my-plugin:0.0.0``) provided by the plugin
         - | `_get_android_dependencies_maven_repos <https://docs.godotengine.org/en/latest/classes/class_editorexportplugin.html#class-editorexportplugin-method-get-android-dependencies-maven-repos>`_:
           | Retrieve the urls of the maven repos for the android dependencies provided by ``_get_android_dependencies``
         - | `_get_android_manifest_activity_element_contents <https://docs.godotengine.org/en/latest/classes/class_editorexportplugin.html#class-editorexportplugin-method-get-android-manifest-activity-element-contents>`_:

@@ -1480,7 +1480,7 @@ Exponential and math function descriptions
 
     |componentwise|
 
-    Converts a bit encoding to a floating-point value. Opposite of `floatBitsToInt<shader_func_floatBitsToInt>`
+    Converts a bit encoding to a floating-point value. Opposite of :ref:`floatBitsToInt <shader_func_floatBitsToInt>`
 
     If the encoding of a ``NaN`` is passed in ``x``, it will not signal and the resulting value will be undefined.
 
@@ -1508,7 +1508,7 @@ Exponential and math function descriptions
 
     |componentwise|
 
-    Converts a bit encoding to a floating-point value. Opposite of `floatBitsToUint<shader_func_floatBitsToUint>`
+    Converts a bit encoding to a floating-point value. Opposite of :ref:`floatBitsToUint <shader_func_floatBitsToUint>`
 
     If the encoding of a ``NaN`` is passed in ``x``, it will not signal and the resulting value will be undefined.
 
